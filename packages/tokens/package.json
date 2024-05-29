@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui-design-system/tokens",
+  "name": "@design-system-from-gabe-brum/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,8 +15,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui-design-system/ts-config": "*",
-    "@ignite-ui-design-system/eslint-config": "*",
+    "@design-system-from-gabe-brum/ts-config": "*",
+    "@design-system-from-gabe-brum/eslint-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
   }

@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui-design-system/react",
+  "name": "@design-system-from-gabe-brum/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui-design-system/eslint-config": "*",
-    "@ignite-ui-design-system/tokens": "*",
-    "@ignite-ui-design-system/ts-config": "*",
+    "@design-system-from-gabe-brum/eslint-config": "*",
+    "@design-system-from-gabe-brum/tokens": "*",
+    "@design-system-from-gabe-brum/ts-config": "*",
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",

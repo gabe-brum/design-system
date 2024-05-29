@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui-design-system/docs",
+  "name": "@design-system-from-gabe-brum/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,10 +14,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui-design-system/eslint-config": "*",
-    "@ignite-ui-design-system/react": "*",
-    "@ignite-ui-design-system/tokens": "*",
-    "@ignite-ui-design-system/ts-config": "*",
+    "@design-system-from-gabe-brum/eslint-config": "*",
+    "@design-system-from-gabe-brum/react": "*",
+    "@design-system-from-gabe-brum/tokens": "*",
+    "@design-system-from-gabe-brum/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^18.2.0",
